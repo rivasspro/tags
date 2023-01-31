@@ -17,6 +17,7 @@ export default {
       {{ tag }}
       </div>
     </div>
+    <label for="text">Input Tags</label>
     <input type="text" v-model="currentValue">
   </div>
 </template>

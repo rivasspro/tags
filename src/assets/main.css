@@ -14,7 +14,9 @@ a,
   color: hsla(160, 100%, 37%, 1);
   transition: 0.4s;
 }
-
+input{
+  font-size: 1rem;
+}
 @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);
